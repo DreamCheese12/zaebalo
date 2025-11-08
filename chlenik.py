@@ -1,4 +1,3 @@
 from random import randint
-
 number = randint(1,6)
-print(f'Random number: {number}')
+print(f'random number: {number}') #че за дрочь
